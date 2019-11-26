@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2019-11-14T08:51:01Z</time>
+ </metadata>
+ <trk>
+  <name>Corrida matutina</name>
+  <type>9</type>
+  <trkseg>
+   <trkpt lat="-7.0974280" lon="-34.8332530">
+    <ele>5.1</ele>
+    <time>2019-11-14T08:51:01Z</time>
+   </trkpt>
+   <trkpt lat="-7.0974560" lon="-34.8332250">
+    <ele>4.9</ele>
+    <time>2019-11-14T08:51:03Z</time>
+   </trkpt>
+   <trkpt lat="-7.0975150" lon="-34.8332070">
+    <ele>4.9</ele>
+    <time>2019-11-14T08:51:05Z</time>
+   </trkpt>
+   <trkpt lat="-7.0975430" lon="-34.8331990">
+    <ele>4.9</ele>
+    <time>2019-11-14T08:51:06Z</time>
+   </trkpt>
+   <trkpt lat="-7.0975890" lon="-34.8331860">
+    <ele>4.9</ele>
+    <time>2019-11-14T08:51:08Z</time>
+   </trkpt>
+   <trkpt lat="-7.0976330" lon="-34.8331860">
+    <ele>5.0</ele>
+    <time>2019-11-14T08:51:10Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
