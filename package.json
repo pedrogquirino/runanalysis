@@ -4,10 +4,12 @@
   "private": true,
   "dependencies": {
     "@bit/recharts.recharts.line-chart": "^1.6.2",
+    "antd": "^3.25.3",
     "fs": "0.0.1-security",
     "jquery": "^3.4.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-dropzone": "^10.2.1",
     "react-scripts": "3.2.0",
     "react-xml-parser": "^1.1.3",
     "use-global-hook": "^0.1.12",

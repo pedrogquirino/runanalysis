@@ -33,7 +33,7 @@ const options = {
       }
     }],
     xAxes: [{
-      display: true,
+      display: false,
       ticks: {
         autoSkip: false
       } 
